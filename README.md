@@ -16,11 +16,11 @@ This starter is very much work in progress. I am updating key modules as I am ma
 - `conda env create -f environment.yml`
 - OR `conda env create -f environment_osx.yml` on Mac
 - `conda activate ml`
-- download `mnist_train.csv` from [here](https://www.kaggle.com/datasets/abhishek/aaamlp), and save it to `input` directory
+- download `mnist_train.csv` from [Abhishek's Kaggle](https://www.kaggle.com/datasets/abhishek/aaamlp), and save it to `input` directory
 
 ## Getting started
 
-This template gets you started with a basic skeleton for your ML app. This includes default MNSIT data set from [Abhishek's Kaggle](https://www.kaggle.com/datasets/abhishek/aaamlp?select=mnist_train.csv)
+This template gets you started with a basic skeleton for your ML app.
 
 ### Creating folds
 
